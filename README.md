@@ -1,2 +1,0 @@
-# gama-javaexpert
-Ola Alunos
