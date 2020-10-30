@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c75217f-b22a-48be-b386-1f71558e6bdc" name="Default Changelist" comment="" />
+    <list default="true" id="8c75217f-b22a-48be-b386-1f71558e6bdc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/implementacao/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/implementacao/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/implementacao/.project" beforeDir="false" afterPath="$PROJECT_DIR$/implementacao/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/implementacao/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/implementacao/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
