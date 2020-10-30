@@ -18,17 +18,13 @@ public class PasseioApp {
 		
 		Carro carro = repository.buscar(1);
 		
-		System.out.println("O carro com id=1 é " + carro.getModelo());
-		
+		System.out.println("O carro com id=1 Ã© " + carro.getModelo());
 		
 		List<Carro>carros = repository.listar();
 		
 		for(Carro c:carros) {
 			System.out.println(c.getMarca() + " Modelo: " + c.getModelo());
 		}
-		
-		
-		
 		
 	}
 	public static void jpa() {
@@ -41,7 +37,6 @@ public class PasseioApp {
 		carro.setCor("Azul");
 		carro.setCapacidadeTanque(200);
 		
-		
 		repository.incluir(carro);
 		
 		carro = new Carro();
@@ -53,8 +48,6 @@ public class PasseioApp {
 		repository.incluir(carro);
 		
 		carro = repository.buscar(1);
-		
-		
 		
 		if(carro!=null) {
 			System.out.println(carro.getModelo());
